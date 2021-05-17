@@ -1,0 +1,52 @@
+state,statecode,agency_name,url,contractor,source,ssi_income,ss_disability,ss_survivors_benefits,ss_total,veterans_admin,child_support,other_sources,total
+Alabama,AL,"Alabama Department of Human Resources, Foster Care",https://dhr.alabama.gov/foster-care/,na,Other reporting,0,0,0,0,0,0,0,0
+Alaska,AK,"Alaska Department of Health and Social Services, Office of Children's Services",http://dhss.alaska.gov/ocs/Pages/offices/default.aspx,PCG,Child Trends,1325698,0,0,1325698,0,2042615,0,3368313
+Arizona,AZ,Arizona Department of Child Safety,https://dcs.az.gov/,na,Child Trends,2727270,2992969,0,5720239,0,0,0,5720239
+Arkansas,AR,"Arkansas Department of Human Services, Division Of Children & Family Services",https://humanservices.arkansas.gov/divisions-shared-services/children-family-services/,na,Child Trends,832078,0,327022,1159100,0,214733,0,1373833
+California,CA,"California Department of Social Services, Foster Care Support Services Bureau",https://www.cdss.ca.gov/inforesources/foster-care,PCG,Private contractor survey,0,0,0,0,0,6878000,0,0
+Colorado,CO,"Colorado Department of Human Services, Child and Family Services",https://cdhs.colorado.gov/our-services/child-and-family-services,unknown,Child Trends,2600189,0,0,2600189,0,1644539,2096030,6340758
+Connecticut,CT,"Connecticut Department of Children and Families Connecticut, Foster & Adoption Services",https://portal.ct.gov/dcf/ctfosteradopt/home,unknown,Child Trends,2836960,0,0,2836960,0,207138,0,3044098
+Delaware,DE,"Department of Services for Children, Youth and Their Families (DSCYF)",https://kids.delaware.gov/,MAXIMUS,Child Trends,625163,0,385700,1010863,0,88046,0,1098909
+District of Columbia,DC,Child and Family Services Agency,https://cfsa.dc.gov/,na,Child Trends,1384123,0,0,1384123,0,52298,0,1436421
+Florida,FL,"Florida Department of Children and Families, Office of Child Welfare",https://www.myflfamilies.com/service-programs/child-welfare/,NA,Child Trends,9444269,0,0,9444269,0,111862,0,9556131
+Georgia,GA,"Georgia Department of Human Services, Division of Children & Family Services",https://dfcs.georgia.gov/,na,Questionnaire,0,0,0,0,0,0,0,0
+Hawai'i,HI,Hawaii Department of Human Services,https://humanservices.hawaii.gov/,na,Child Trends,63825,309196,0,373021,0,0,0,373021
+Idaho,ID,Idaho Department of Health and Welfare,https://healthandwelfare.idaho.gov/,na,Questionnaire,0,0,0,0,0,0,0,0
+Illinois,IL,Illinois Department of Children and Family Services,https://www2.illinois.gov/dcfs/Pages/default.aspx,Diversified Services Network (DSN),Child Trends,13092669,0,5594131,18686800,9633,3429699,0,22126132
+Indiana,IN,Indiana Department of Child Services,https://www.in.gov/dcs/2372.htm,MAXIMUS,Child Trends,8483914,0,0,8483914,0,0,12499,8496413
+Iowa,IA,"Iowa Department of Human Services, Adult, Child and Family Services",https://dhs.iowa.gov/node/1004,MAXIMUS,Child Trends,2030307,999809,0,3030116,0,1204283,0,4234399
+Kansas,KS,Kansas Department for Children and Families,http://www.dcf.ks.gov/Pages/default.aspx,na,Child Trends,6800026,0,0,6800026,0,457718,0,7257744
+Kentucky,KY,Kentucky Cabinet for Health and Family Services,https://chfs.ky.gov/Pages/index.aspx,PCG,Child Trends,3652029,6948699,0,10600728,0,1175518,1032894,12809140
+Louisiana,LA,Louisiana Department of Children and Family Services,http://dcfs.la.gov/,na,Questionnaire,0,0,0,0,0,384204,1568476,1952680
+Maine,ME,Maine Office of Child and Family Services,https://www.maine.gov/dhhs/ocfs,na,Child Trends,738380,0,827103,1565483,0,218711,0,1784194
+Maryland,MD,"Maryland Department of Human Services, Social Services Administration",https://dhs.maryland.gov/,MAXIMUS,Child Trends,1871256,0,0,1871256,0,1707447,0,3578703
+Massachusetts,MA,Massachusetts Department of Children and Families,https://www.mass.gov/orgs/massachusetts-department-of-children-families,na,Child Trends,4376139,0,1938127,6314266,0,485940,0,6800206
+Michigan,MI,Office of Child Welfare Policy and Programs/Children's Services Agency,"https://www.michigan.gov/mdhhs/0,5885,7-339-71551_11120---,00.html",na,Child Trends,970885,983835,0,1954720,0,793062,0,2747782
+Minnesota,MN,Minnesota Department of Human Services,https://mn.gov/dhs/,unknown,Questionnaire,0,0,0,0,0,1021017,0,1021017
+Mississippi,MS,Mississippi Department of Child Protection Services,https://www.mdcps.ms.gov/,na,Other reporting,0,0,0,0,0,0,0,0
+Missouri,MO,"Missouri Department of Social Services, Children's Division",https://dss.mo.gov/cd/,na,Child Trends,4630222,1763687,1763687,8157596,0,4318855,36507,12512960
+Montana,MT,"Montana Department of Public Health and Human Services, Child and Family Services Division",https://dphhs.mt.gov/cfsd/childfamilyservices,na,,0,0,0,0,0,1673905,0,1673905
+Nebraska,NE,"Nebraska Department of Health and Human Services, Division of Children and Family Services",https://dhhs.ne.gov/Pages/Children-and-Family-Services.aspx,unknown,Questionnaire,0,0,0,0,0,0,0,0
+Nevada,NV,"Nevada Department of Health and Human Services, Division of Child and Family Services",http://dcfs.nv.gov/,na,Child Trends,144429,0,0,144429,0,40515,0,184944
+New Hampshire,NH,"New Hampshire Department of Health and Human Services, Division for Children, Youth and Families",https://www.dhhs.nh.gov/dcyf/index.htm,na,Child Trends,739188,1158663,0,1897851,0,212927,930557,3041335
+New Jersey,NJ,"New Jersey Department of Children and Families, Division of Child Protection and Permanency/Office of Resource Families",https://www.nj.gov/dcf/about/divisions/dcpp/,na,Child Trends,1528076,0,1744296,3272372,0,5970886,0,9243258
+New Mexico,NM,"New Mexico Department of Children, Youth and Families, State Child Placement Agency Licensing, Criminal Background Checks",https://cyfd.org/for-providers/info-and-manuals,na,Child Trends,6612480,0,1314100,7926580,0,0,190503,8117083
+New York,NY,"New York State Office of Children and Family Services, Office of Child Welfare and Community Services",https://ocfs.ny.gov/main/,PCG,Private contractor survey,0,0,0,0,0,0,0,0
+North Carolina,NC,"North Carolina Department of Health and Human Services, Division of Social Services, Child Welfare",https://www.ncdhhs.gov/divisions/dss,unknown,Other reporting,0,0,0,0,0,0,0,0
+North Dakota,ND,"North Dakota Department of Human Services, Children & Family Services",https://www.nd.gov/dhs/services/childfamily/,na,Other reporting,0,0,0,0,0,0,0,0
+Ohio,OH,"Ohio Department of Job and Family Services, Office of Families and Children, Substitute Care and Permanency Policy Section",https://jfs.ohio.gov/ocf/gen_stat.stm,unknown,Child Trends,924038,2038585,0,2962623,0,824877,0,3787500
+Oklahoma,OK,Oklahoma Department of Human Services,https://oklahoma.gov/okdhs.html,na,Child Trends,3074593,0,0,3074593,0,1537563,0,4612156
+Oregon,OR,"Oregon Department of Human Services, Office of Child Welfare Programs",https://www.oregon.gov/dhs/children/Pages/index.aspx,na,Child Trends,1968662,0,2403681,4372343,2605,2124305,13025,6512278
+Pennsylvania,PA,"Pennsylvania Department of Human Services, Office of Children, Youth, and Families",https://www.dhs.pa.gov/contact/DHS-Offices/Pages/OCYF.aspx,unkown,Child Trends,0,0,0,0,0,10358621,11958147,22316768
+Rhode Island,RI,"Rhode Island Department of Children, Youth, and Families, Division of Resource Families",http://www.dcyf.ri.gov/,na,Child Trends,2201396,0,0,2201396,0,33111,0,2234508
+South Carolina,SC,South Carolina Department of Social Services,https://dss.sc.gov/,MAXIMUS,Child Trends,2698330,0,0,2698330,0,10239786,0,12938116
+South Dakota,SD,"South Dakota Department of Social Services, Child Protection Services",https://dss.sd.gov/childprotection/,na,Child Trends,757331,0,0,757331,0,315867,0,1073198
+Tennessee,TN,"Tennessee Department of Children's Services, Office of Child Permanency",https://www.tn.gov/dcs.html,na,Child Trends,2511772,0,2953034,5464806,0,4879949,0,10344755
+Texas,TX,Texas Department of Family and Protective Services,https://www.dfps.state.tx.us/,na,Child Trends,12761253,8161115,0,20922368,0,759164,0,21681532
+Utah,UT,Utah Department of Human Services,https://hs.utah.gov/,na,Child Trends,2613182,0,0,2613182,0,0,0,2613182
+Vermont,VT,Vermont Department for Children and Families,https://dcf.vermont.gov/,na,Child Trends,375232,615722,0,990954,0,11446,0,1002400
+Virginia,VA,Virginia Department of Social Services,https://www.dss.virginia.gov/,unknown,Other reporting,0,0,0,0,0,883425,0,883425
+Washington,WA,Washington State Department of Social and Health Services,https://www.dcyf.wa.gov/,Maximus and PCG,Child Trends,6886556,0,0,6886556,0,2184369,0,9070925
+West Virginia,WV,"West Virginia Department of Health and Human Resources, Bureau for Children & Families",https://dhhr.wv.gov/programs/Pages/Bureau-for-Children-and-Families.aspx,na,Child Trends,758724,1131080,0,1889804,1589,620144,3561,2515099
+Wisconsin,WI,Wisconsin Department of Children and Families,https://dcf.wisconsin.gov/,MAXIMUS,Child Trends,4131417,0,0,4131417,0,2582778,0,6714195
+Wyoming,WY,Wyoming Department of Family Services,https://dfs.wyo.gov/,na,Child Trends,0,194902,0,194902,0,179584,188501,562987
