@@ -23,5 +23,6 @@ The data was compiled from a combination of sources:
 * `other_sources`: Other benefits that the state took from foster children, as reported to CT.
 * `agency_name`: The agency responsible for foster care service.
 * `agency_url`: A link to the responsible agency's contact page.
+* Columns that start with `ct_notes`: Notes from Child Trend on that specific columns.
 
 This data was used for the story [Foster Care Agencies Take Thousands of Dollars Owed to Kids, Most Children Have No Idea](https://www.themarshallproject.org/2021/04/22/foster-care-agencies-take-thousands-of-dollars-owed-to-kids-most-children-have-no-idea) by Eli Hager.
